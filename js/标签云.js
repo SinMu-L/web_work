@@ -1,6 +1,6 @@
 $( document ).ready( function() {
     var entries = [
-        { label: '莫恒辉' },
+        { label: '大帅气' },
         { label: 'Bootstrap', target: '_top' },
         { label: '算法',target: '_top' },
         { label: '网页开发', target: '_top' },
