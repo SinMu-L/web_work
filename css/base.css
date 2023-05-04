@@ -10,10 +10,10 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, butt
     -ms-transition: all 0.30s ease-in-out;
 }
 
-* {
+/* * {
 
      cursor: url(../images/箭头.png), default!important;
- }
+ } */n
 /*让所有斜体 不倾斜*/
 
 
@@ -63,7 +63,16 @@ a:hover {
 }
 
 body, input, button, textarea, select {
-    font-family: "YouYuan","Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
+    font-family: "Lantinghei SC", "Open Sans", Arial, "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", "STHeiti", "WenQuanYi Micro Hei", SimSun, sans-serif;
+}
+h4{
+    font-size: 14px;
+    color: #999; 
+}
+h3{
+    font-size: 18px;
+    color: #565656;
+    font-weight: 600;
 }
 
 .hide,
